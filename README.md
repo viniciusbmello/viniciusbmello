@@ -3,7 +3,7 @@
 [![OpenSource Love](https://img.shields.io/badge/OpenSource-%E2%99%A5-brightgreen)](https://github.com/viniciusbmello)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-viniciusbmello-blue)](https://www.linkedin.com/in/viniciusbmello/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-vbmello-red)](https://www.instagram.com/vbmello/)
-[![Personal Site](https://img.shields.io/badge/Codar-Space-lightgrey)](https://codar.space/)
+[![Personal Site](https://img.shields.io/badge/Codar-Space-blueviolet)](https://codar.space/)
 
 <!--
 **viniciusbmello/viniciusbmello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
