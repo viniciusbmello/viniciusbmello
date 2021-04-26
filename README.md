@@ -1,7 +1,8 @@
 ### Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">,I am Vinícius Mello
 
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/viniciusbmello)
+[![OpenSource Love](https://img.shields.io/badge/OpenSource-%E2%99%A5-brightgreen)](https://github.com/viniciusbmello)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-viniciusbmello-blue)](https://www.linkedin.com/in/viniciusbmello/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-vbmello-red)](https://www.instagram.com/vbmello/)
 
 <!--
 **viniciusbmello/viniciusbmello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
