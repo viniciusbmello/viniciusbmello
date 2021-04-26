@@ -1,4 +1,4 @@
-### Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">,I am Vinícius Mello
+### Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/> I am Vinícius Mello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 [![OpenSource Love](https://img.shields.io/badge/OpenSource-%E2%99%A5-brightgreen)](https://github.com/viniciusbmello)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-viniciusbmello-blue)](https://www.linkedin.com/in/viniciusbmello/)
