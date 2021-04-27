@@ -1,9 +1,9 @@
 ### Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/> I am Vinícius Mello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-[![Personal Site](https://img.shields.io/badge/Codar-Space-blueviolet)](https://codar.space/)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-viniciusbmello-blue)](https://www.linkedin.com/in/viniciusbmello/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-vbmello-red)](https://www.instagram.com/vbmello/)
-[![OpenSource Love](https://img.shields.io/badge/OpenSource-%E2%99%A5-brightgreen)](https://github.com/viniciusbmello)
+[![Personal Site](https://img.shields.io/badge/Codar-Space-blueviolet?style=flat-square)](https://codar.space/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-viniciusbmello-blue?style=flat-square)](https://www.linkedin.com/in/viniciusbmello/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-vbmello-red?style=flat-square)](https://www.instagram.com/vbmello/)
+[![OpenSource Love](https://img.shields.io/badge/OpenSource-%E2%99%A5-brightgreen?style=flat-square)](https://github.com/viniciusbmello)
 
 <!--
 **viniciusbmello/viniciusbmello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
