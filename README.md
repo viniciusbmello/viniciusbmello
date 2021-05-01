@@ -14,6 +14,8 @@ When I finished high school, I was sure that I wanted to continue studying about
 
 I've been working for more than 10 years in the IT field with numerous challenges overcome and after all this, I can say that I love innovation and dynamism. I'm passionate about creating things, set goals and achieve them.
 
+<br /><br />
+
 ## Work Experience
 
 ### Infrastructure analyst at Frimesa
@@ -31,6 +33,8 @@ I've been working for more than 10 years in the IT field with numerous challenge
 
 * Modeling the physical structure of the university campus in a three-dimensional application for Web, Desktop and Mobile.
 * Blender and 3D Studio Max were used to model the objects. The application was developed using the Unity3D graphics engine and the source code is CSharp and JavaScript.
+
+<br /><br />
 
 ## Education
 
