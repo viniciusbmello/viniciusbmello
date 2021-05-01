@@ -20,6 +20,13 @@ I've been working for more than 10 years in the IT field with numerous challenge
 
 ## Work Experience
 
+### Front-End Developer Pleno
+<sub>April 2021 – Present</sub>
+
+* I've been developing Front-End applications on demand, working in teams remotely and sometimes acting as a techlead. Always performing automated tests with Jest.
+* Applications are developed using React.js and Next.js. Where we use tools like SWR and Axios, creating queries with GraphQL and Databases like MySQL, MongoDB and FaunaDB.
+* The teams' focus is always on the UI / UX.
+
 ### Infrastructure analyst at Frimesa
 <sub>April 2014 – Present</sub>
 
@@ -31,7 +38,7 @@ I've been working for more than 10 years in the IT field with numerous challenge
 * I am one of the domain administrators and I work with a focus on the cloud environment, with Azure and Office 365 being the main ones, coordinating the production team in activities to support this environment.
 
 ### Trainee at UTFPR
-<sup>April 2013 – October 2013</sup>
+<sub>April 2013 – October 2013</sub>
 
 * Modeling the physical structure of the university campus in a three-dimensional application for Web, Desktop and Mobile.
 * Blender and 3D Studio Max were used to model the objects. The application was developed using the Unity3D graphics engine and the source code is CSharp and JavaScript.
@@ -41,7 +48,7 @@ I've been working for more than 10 years in the IT field with numerous challenge
 ## Education
 
 ### Technology in Analysis and Systems Development at Federal Technological University of Paraná
-<sub><sup>April 2013 – October 2013</sup></sub>
+<sub>April 2013 – October 2013</sub>
 
 * The course has as its general objective the training of professionals capable of working in the use of modern information technologies and also adapting to social changes and technological developments, thus meeting the needs of the market. The student will learn to develop, deploy and manage systems for use in organizational processes, including infrastructure and systems maintenance.
 
