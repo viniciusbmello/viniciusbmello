@@ -1,4 +1,4 @@
-### Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/> I am Vinícius Mello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+# Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/> I am Vinícius Mello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 # Front-End Engineer
 
 [![Personal Site](https://img.shields.io/badge/Codar-Space-blueviolet?style=flat-square&logo=next.js)](https://codar.space/)
@@ -16,7 +16,7 @@ I've been working for more than 10 years in the IT field with numerous challenge
 
 ## Work Experience
 
-# Infrastructure analyst at Frimesa
+### Infrastructure analyst at Frimesa
 <sub><sup>April 2014 – Present</sup></sub>
 
 * I've been working as a Senior Analyst with the company's production team, where I was responsible for data security and the Firewall environment. In addition to having architected the network structure.
@@ -26,7 +26,7 @@ I've been working for more than 10 years in the IT field with numerous challenge
 * I am in charge of all server automation Devops, creating several Shell, PowerShell and Python scripts for the execution of scheduled tasks and also consuming ERP APIs to popularize Active Directory objects.
 * I am one of the domain administrators and I work with a focus on the cloud environment, with Azure and Office 365 being the main ones, coordinating the production team in activities to support this environment.
 
-# Trainee at UTFPR
+### Trainee at UTFPR
 <sub><sup>April 2013 – October 2013</sup></sub>
 
 * Modeling the physical structure of the university campus in a three-dimensional application for Web, Desktop and Mobile.
@@ -34,7 +34,7 @@ I've been working for more than 10 years in the IT field with numerous challenge
 
 ## Education
 
-# Technology in Analysis and Systems Development at Federal Technological University of Paraná
+### Technology in Analysis and Systems Development at Federal Technological University of Paraná
 <sub><sup>April 2013 – October 2013</sup></sub>
 
 * The course has as its general objective the training of professionals capable of working in the use of modern information technologies and also adapting to social changes and technological developments, thus meeting the needs of the market. The student will learn to develop, deploy and manage systems for use in organizational processes, including infrastructure and systems maintenance.
