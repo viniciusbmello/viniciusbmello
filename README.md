@@ -21,7 +21,7 @@ I've been working for more than 10 years in the IT field with numerous challenge
 ## Work Experience
 
 ### Infrastructure analyst at Frimesa
-<sub><sup>April 2014 – Present</sup></sub>
+<sub>April 2014 – Present</sub>
 
 * I've been working as a Senior Analyst with the company's production team, where I was responsible for data security and the Firewall environment. In addition to having architected the network structure.
 * I supported virtualized environments and also containers, using operating systems such as Windows Server, Solaris and Oracle Linux.
@@ -31,7 +31,7 @@ I've been working for more than 10 years in the IT field with numerous challenge
 * I am one of the domain administrators and I work with a focus on the cloud environment, with Azure and Office 365 being the main ones, coordinating the production team in activities to support this environment.
 
 ### Trainee at UTFPR
-<sub><sup>April 2013 – October 2013</sup></sub>
+<sup>April 2013 – October 2013</sup>
 
 * Modeling the physical structure of the university campus in a three-dimensional application for Web, Desktop and Mobile.
 * Blender and 3D Studio Max were used to model the objects. The application was developed using the Unity3D graphics engine and the source code is CSharp and JavaScript.
