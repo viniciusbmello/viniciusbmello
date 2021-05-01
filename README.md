@@ -1,10 +1,12 @@
 # Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/> I am Vinícius Mello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-# Front-End Engineer
+### Front-End Engineer
 
 [![Personal Site](https://img.shields.io/badge/Codar-Space-blueviolet?style=flat-square&logo=next.js)](https://codar.space/)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-viniciusbmello-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/viniciusbmello/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-vbmello-red?style=flat-square&logo=instagram)](https://www.instagram.com/vbmello/)
 [![OpenSource Love](https://img.shields.io/badge/OpenSource-%E2%99%A5-brightgreen?style=flat-square&logo=open-source-initiative)](https://github.com/viniciusbmello)
+
+<br /><br />
 
 ## Profile
 
