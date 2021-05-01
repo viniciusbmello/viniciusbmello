@@ -48,7 +48,7 @@ I've been working for more than 10 years in the IT field with numerous challenge
 ## Education
 
 ### Technology in Analysis and Systems Development at Federal Technological University of Paraná
-<sub>April 2013 – October 2013</sub>
+<sub>April 2011 – October 2015</sub>
 
 * The course has as its general objective the training of professionals capable of working in the use of modern information technologies and also adapting to social changes and technological developments, thus meeting the needs of the market. The student will learn to develop, deploy and manage systems for use in organizational processes, including infrastructure and systems maintenance.
 
