@@ -11,6 +11,8 @@
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": true
   },
+
+  "eslint.validate": ["typescript", "typescriptreact"],
   
   "files.associations": {
     ".sequelizerc": "javascript",
@@ -45,7 +47,8 @@
     "mappers": "meta",
     "_shared": "shared",
     "eslint-config": "tools",
-    "kube": "kubernetes"
+    "kube": "kubernetes",
+    "contexts": "hook"
   },
   
   "material-icon-theme.files.associations": {
@@ -101,11 +104,22 @@
   "editor.suggestSelection": "first",
   "cSpell.userWords": [
     "chakra",
+    "gerenciar",
+    "linkify",
     "middlewares",
+    "parens",
+    "preconnect",
     "prefetch",
-    "rocketseat",
+    "prettierrc",
+    "readonly",
+    "respectivos",
     "typeorm",
-    "varchar"
+    "unfetch",
+    "use",
+    "varchar",
+    "versionamento",
+    "vuttr",
+    "wireframes"
   ],
   "workbench.productIconTheme": "fluent-icons",
   "terminal.integrated.showExitAlert": false,
@@ -156,5 +170,7 @@
   
   "typescript.updateImportsOnFileMove.enabled": "never",
   "tabnine.experimentalAutoImports": true,
-  "javascript.updateImportsOnFileMove.enabled": "always"
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "git.autofetch": true,
+  "workbench.colorTheme": "Omni"
 }
