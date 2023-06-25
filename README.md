@@ -6,6 +6,7 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-vbmello-red?style=flat-square&logo=instagram)](https://www.instagram.com/vbmello/)
 [![OpenSource Love](https://img.shields.io/badge/OpenSource-%E2%99%A5-brightgreen?style=flat-square&logo=open-source-initiative)](https://github.com/viniciusbmello)
 <br />
+
 I've been working with IT infrastructure for over 10 years and I've had the opportunity to be at the forefront of many different projects, from infrastructure integration level to product creation.
 Determined, flexible and eternally curious person. Always willing to engage in new challenges and take on more responsibilities. I'm passionate about technology and I'm constantly looking for new technologies to deepen myself.
 I like to work in horizontal teams, where knowledge is shared and together we can create a better tomorrow.
