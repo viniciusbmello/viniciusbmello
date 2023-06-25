@@ -1,5 +1,5 @@
-# Olá <𝚌𝚘𝚍𝚎𝚛𝚜/> Meu nome é Vinícius Mello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-### SRE apaixonado por DevOps e IaC
+# Hello <𝚌𝚘𝚍𝚎𝚛𝚜/> My name is Vinícius Mello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+### SRE/DevOps Engineer
 
 [![Personal Site](https://img.shields.io/badge/Codar-Space-blueviolet?style=flat-square&logo=next.js)](https://codar.space/)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-viniciusbmello-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/viniciusbmello/)
@@ -8,7 +8,9 @@
 
 <br />
 
-Apaixonado por criar experiências únicas para usuários através de UI/UX. Busco através de metodologias ágeis organizar meu processo de criação. Quero me envolver e trabalhar em equipe para absorver e proporcionar vivências. Gosto de trabalhar em múltiplos projetos para aplicar meus conhecimentos.
+I've been working with IT infrastructure for over 10 years and I've had the opportunity to be at the forefront of many different projects, from infrastructure integration level to product creation.
+Determined, flexible and eternally curious person. Always willing to engage in new challenges and take on more responsibilities. I'm passionate about technology and I'm constantly looking for new technologies to deepen myself.
+I like to work in horizontal teams, where knowledge is shared and together we can create a better tomorrow.
 
 <!--
 **viniciusbmello/viniciusbmello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
