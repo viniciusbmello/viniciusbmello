@@ -1,5 +1,5 @@
 # Olá <𝚌𝚘𝚍𝚎𝚛𝚜/> Meu nome é Vinícius Mello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-### Desenvolvedor Front-End
+### SRE apaixonado por DevOps e IaC
 
 [![Personal Site](https://img.shields.io/badge/Codar-Space-blueviolet?style=flat-square&logo=next.js)](https://codar.space/)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-viniciusbmello-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/viniciusbmello/)
