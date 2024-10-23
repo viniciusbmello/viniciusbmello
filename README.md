@@ -2,9 +2,8 @@
 ### SRE/DevOps Engineer
 
 [![Personal Site](https://img.shields.io/badge/VMIT-Vercel.app-%23000000?style=flat&logo=nextdotjs)](https://vmit.vercel.app/)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-viniciusbmello-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/viniciusbmello/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-vbmello-red?style=flat-square&logo=instagram)](https://www.instagram.com/vbmello/)
-[![OpenSource Love](https://img.shields.io/badge/OpenSource-%E2%99%A5-brightgreen?style=flat-square&logo=open-source-initiative)](https://github.com/viniciusbmello)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-viniciusbmello-%230A66C2?style=flat&logo=linkedin&logoColor=%23FFF)](https://www.linkedin.com/in/viniciusbmello/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-vbmello-%23E4405F?style=flat&logo=instagram&logoColor=%23FFF)](https://www.instagram.com/vbmello/)
 <br />
 
 I've been working with IT infrastructure for over 10 years and I've had the opportunity to be at the forefront of many different projects, from infrastructure integration level to product creation.
